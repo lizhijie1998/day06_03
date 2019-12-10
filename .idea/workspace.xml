@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="083482c0-6533-41ef-bc38-46b3fb1ad079" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -232,6 +231,14 @@
       <option name="presentableId" value="Default" />
       <updated>1575861654428</updated>
     </task>
+    <task id="LOCAL-00001" summary="003">
+      <created>1575969422804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575969422804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -258,6 +265,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="003" />
+    <option name="LAST_COMMIT_MESSAGE" value="003" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/run_suite.py">
